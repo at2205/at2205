@@ -54,7 +54,8 @@
 
 #### 🚆 IRCTC B2C Booking System  
 - Full booking lifecycle with payment & API integration  
-- Backend: Spring Boot | Frontend: React  
+- Backend: Spring Boot | Frontend: React
+- link :- https://quickrail.bankit.in/
 
 #### 📡 Real-Time Video Streaming App  
 - Live video + chat using WebRTC & Socket.io  
