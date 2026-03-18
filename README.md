@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi 👋, I'm Aryan Tomar  
 
-<!--
-**at2205/at2205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Software Engineer | Java Backend | Spring Boot | React  
 
-Here are some ideas to get you started:
+- 🔭 Currently working at **FINDI Bankit Pvt. Ltd.**  
+- 💻 Building scalable backend systems & REST APIs  
+- ⚡ Worked on **IRCTC Booking System & Real-Time Streaming App**  
+- 🌱 Exploring **System Design & Real-Time Architectures**  
+- 🤖 Interested in **AI Integration (LLM APIs)**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack  
+
+**Backend:**  
+Java | Spring Boot | Spring Security | Hibernate | JDBC  
+
+**Frontend:**  
+React.js | React Router | Bootstrap  
+
+**Database:**  
+MySQL  
+
+**Real-Time:**  
+WebRTC | Socket.io  
+### 📫 Connect with Me  
+
+- LinkedIn: https://www.linkedin.com/in/aryan-tomar-02727128b  
+- GitHub: https://github.com/at2205 
