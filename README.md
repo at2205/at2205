@@ -28,7 +28,7 @@
 ### ⚡ Tech Highlights  
 
 - 🔹 Backend: Spring Boot, Spring Security, Hibernate, JDBC  
-- 🔹 Frontend: React.js, React Router, Bootstrap  
+- 🔹 Frontend: Next.js,React.js, React Router, Bootstrap  
 - 🔹 Real-Time: WebRTC, Socket.io  
 - 🔹 Database: MySQL  
 
@@ -56,6 +56,16 @@
 - Full booking lifecycle with payment & API integration  
 - Backend: Spring Boot | Frontend: React
 - link :- https://quickrail.bankit.in/
+#### 🏥 M-Swasth Wellness Platform
+Digital healthcare & wellness management platform
+Features include user health tracking, services & portal integration
+Backend: Spring Boot | Frontend: React
+🔗 https://wellness.bankit.in/m-swasth
+#### 💼 FindiInsure Platform
+Insurance services platform for policy management & user onboarding
+Integrated APIs for seamless insurance workflows
+Backend: Spring Boot | Frontend: React
+🔗 https://findiinsure.bankit.in/
 
 #### 📡 Real-Time Video Streaming App  
 - Live video + chat using WebRTC & Socket.io  
